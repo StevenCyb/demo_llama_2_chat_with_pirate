@@ -1,0 +1,9 @@
+# Mac OS stuff
+.DS_Store
+
+# Python
+env
+
+# Model
+models/*
+!models/placeholder
